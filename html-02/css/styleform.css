@@ -7,7 +7,7 @@ body {
 	margin: 10% auto 0 auto;
 }
 #autho {
-	width: -webkit-fill-available;
+	width: 300px;
 	height: auto;
 	background-color: #f3f3f3;
 }
@@ -20,7 +20,6 @@ h4 {
 	width: 280px;
 }
 #form {
-	width: -webkit-fill-available;
 	background-color: #fdfdfd;
 	padding: 10px;
 	border-radius: 0 0 25px 25px;
