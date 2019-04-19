@@ -104,15 +104,15 @@ footer {
 }
 .postExcerpt>h2 {
     height: auto;
-    min-height: 120px;
+    min-height: 150px;
     margin: 10px;
 }
 .titleCatIMG {
     display: table;   
 }
-.titleAndCat {
+/*.titleAndCat {
     border-bottom: 1px solid black;
-}
+}*/
 .titleAndCat h2 {
     text-align: center;
 }
